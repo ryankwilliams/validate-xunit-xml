@@ -1,0 +1,22 @@
+# PyCharm
+.idea
+
+# Visual Studio Code
+.vscode
+
+# Python packaging
+*.egg-info
+build/*
+dist/*
+
+# Python virtual environment
+venv*
+
+# Python compiled files
+*.py[cod]
+
+# Code coverage
+.coverage
+coverage
+
+.tox/
